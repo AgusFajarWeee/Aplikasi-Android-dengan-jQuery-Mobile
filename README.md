@@ -1,4 +1,4 @@
-# Aplikasi Mobile dengan jQuery Mobile
+# Aplikasi Android dengan jQuery Mobile
 Aplikasi ini dibuat sebagai salah satu tugas yang diberikan oleh guru saya saat masih bersekolah di SMK.
 Saat proses pembuatan aplikasi sendiri, setiap siswa harus memiliki tema yang berbeda. Dan aplikasi dari saya sendiri mengusung tema tentang salah satu Girl band terkenal, yaitu Girls' Generation.
 
